@@ -1,0 +1,157 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+#navbarMonstera {
+    margin-top: 25px;
+}
+
+#navFirst img {
+    float: left;
+    margin-right: 19%;
+    margin-left: 50px;
+    width: 78px;
+    margin-top: 13px;
+}
+
+#navMid h4 {
+    float: left;
+    display: inline-block;
+    margin: 3%;
+    margin-top: 18px
+}
+
+#navMid>div:nth-child(1) h4 {
+    border-bottom: 2px solid;
+
+}
+
+#navEnd img {
+    float: right;
+    margin-right: 34px;
+    margin-top: 19px;
+    margin-bottom: 36px;
+}
+
+#navEnd>div:nth-child(1) {
+    margin-bottom: 36px;
+}
+
+#midWhole {
+    position: absolute;
+    margin-top: 12%;
+    margin-left: 5%;
+}
+
+/* #midWholePart11 ul {
+    position: absolute;
+    margin-top: 20%;
+} */
+
+#monstera {
+    margin-top: 56px;
+    font-size: 104px;
+    margin-bottom: -18px;
+}
+
+ul li:nth-child(3) {
+    font-size: 17px;
+    width: 67%;
+}
+
+ul li:nth-child(4) {
+    font-size: 17px;
+    width: 67%;
+}
+
+#midWholePart121 h1 {
+    background-color: rgb(93, 180, 217);
+    border-radius: 33px;
+    padding: 6px 17px;
+    margin-top: 8%;
+    width: 27%;
+    color: white;
+    font-size: 29px;
+
+}
+
+#midWholePart13 {
+    margin-top: 57px;
+}
+
+#midWholePart121 h1:after {
+    content: ">";
+    font-size: 30px;
+    margin-left: 9px;
+}
+
+/* #midWholePart13Parts {
+    display: inline-block;
+    position: absolute;
+} */
+#feeding {
+    width: 8%;
+}
+
+.midWholePart13Parts:nth-child(1) h4 {
+    margin-left: 9%;
+    margin-top: -8%;
+}
+
+.midWholePart13Parts:nth-child(2) h4 {
+    margin-left: 10%;
+    margin-top: -9%;
+}
+
+.midWholePart13Parts:nth-child(3) h4 {
+    margin-left: 22%;
+    margin-top: -14%;
+}
+
+.midWholePart13Parts:nth-child(1) .text {
+    margin-left: 9%;
+    width: 23%;
+    font-size: 12px;
+}
+
+.midWholePart13Parts:nth-child(2) .text {
+    margin-left: 10%;
+    width: 24%;
+    font-size: 12px;
+}
+
+.midWholePart13Parts:nth-child(3) .text {
+    margin-left: 22%;
+    width: 34%;
+    font-size: 12px;
+}
+
+#light {
+    width: 6%;
+    margin-left: 14px;
+}
+
+#care {
+    width: 11%;
+    margin-left: 36px;
+    margin-top: 24px;
+}
+
+.midWholePart13Parts:nth-child(2) {
+    margin-left: 26%;
+    margin-top: -7%;
+}
+
+.midWholePart13Parts:nth-child(3) {
+    margin-left: 48%;
+    margin-top: -9%;
+}
+
+#imgMain {
+    margin-left: 90%;
+    margin-top: -70%;
+    width: 76%;
+}
